@@ -32,3 +32,14 @@ p{
 a{
     display: block;
 }
+
+img:hover{
+
+    opacity: 1;
+}
+
+p:hover{
+
+    color:red;
+    text-transform:uppercase;
+}
